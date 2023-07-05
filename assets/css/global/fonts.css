@@ -4,20 +4,20 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://yogafacial-arquivos.nyc3.cdn.digitaloceanspaces.com/fontes/mark-pro-regular.woff') format('woff');
+    src: url('../../fonts/mark-pro-regular.woff') format('woff');
   }
   @font-face {
     font-family: 'montserrat-regular';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://yogafacial-arquivos.nyc3.cdn.digitaloceanspaces.com/fontes/montserrat-regular.woff') format('woff');
+    src: url('../../fonts/montserrat-regular.woff') format('woff');
   }
   @font-face {
     font-family: 'montserrat-semibold';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://yogafacial-arquivos.nyc3.cdn.digitaloceanspaces.com/fontes/montserrat-semibold.woff') format('woff');
+    src: url('../../fonts/montserrat-semibold.woff') format('woff');
   }
   
